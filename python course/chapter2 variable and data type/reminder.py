@@ -1,0 +1,5 @@
+a= int (input("Enter a number :"))
+b=int(input("Enter b number :"))
+print("The first number is :",a)
+print("The Second number is :",b)
+print("Reminder when a is devided by b ",a%b)
